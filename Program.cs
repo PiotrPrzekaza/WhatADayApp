@@ -6,8 +6,11 @@ namespace WhatADayApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
             var guesser = new DayGuesser();
+            guesser.WelcomeText();
+            guesser.AskUserForDateOfBirth();
+            guesser.CalculateDayOfTheWeek();
+            guesser.PrintDayOfTheWeek();
         }
     }
 }
