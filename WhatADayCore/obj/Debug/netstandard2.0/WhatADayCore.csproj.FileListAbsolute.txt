@@ -1,0 +1,9 @@
+C:\Source\dotNet\WhatADayCore\bin\Debug\netstandard2.0\WhatADayCore.deps.json
+C:\Source\dotNet\WhatADayCore\bin\Debug\netstandard2.0\WhatADayCore.dll
+C:\Source\dotNet\WhatADayCore\bin\Debug\netstandard2.0\WhatADayCore.pdb
+C:\Source\dotNet\WhatADayCore\obj\Debug\netstandard2.0\WhatADayCore.csprojAssemblyReference.cache
+C:\Source\dotNet\WhatADayCore\obj\Debug\netstandard2.0\WhatADayCore.AssemblyInfoInputs.cache
+C:\Source\dotNet\WhatADayCore\obj\Debug\netstandard2.0\WhatADayCore.AssemblyInfo.cs
+C:\Source\dotNet\WhatADayCore\obj\Debug\netstandard2.0\WhatADayCore.csproj.CoreCompileInputs.cache
+C:\Source\dotNet\WhatADayCore\obj\Debug\netstandard2.0\WhatADayCore.dll
+C:\Source\dotNet\WhatADayCore\obj\Debug\netstandard2.0\WhatADayCore.pdb
